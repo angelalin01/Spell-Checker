@@ -4,8 +4,6 @@ import java.util.Set;
 /**
  * A smart Corrector that uses "edit distance" to generate corrections.
  * <p>
- * NOTE: This corrector is a "challenge" problem and does not count towards your grade.
- * <p>
  * The Levenshtein distance between two words is the smallest number of edits needed to transform
  * one word to the other. An "edit" can be either an:
  * <ul>
